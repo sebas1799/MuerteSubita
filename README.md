@@ -1,2 +1,3 @@
 # MuerteSubita
-Ejercicios de muerte subita profe daza
+Ejercicios de muerte subita
+Sebastian Ortiz 20161020043
